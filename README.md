@@ -8,14 +8,14 @@ Soy estudiante apasionado por la programación y el desarrollo de software. He e
 
 🧠 Estoy aprendiendo sobre **desarrollo móvil**, y lo disfruto como un pasatiempo que me reta y motiva. Me gusta avanzar a mi ritmo y descubrir lo que la tecnología puede lograr.
 
-## 💻 Intereses técnicos
+💻 Intereses técnicos
 - Desarrollo Web y Frontend
 - Backend con APIs y configuraciones
 - **Bases de datos**: diseño, consultas SQL y conexión con aplicaciones
 - Android Studio & programación móvil
 
   
-## 🎵 Más allá del código
+🎵 Más allá del código
 Además de programar:
 - Toco música con mi grupo 🎸
 - Me gusta andar en moto y explorar paisajes 🏍️🌄
