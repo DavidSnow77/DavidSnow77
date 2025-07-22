@@ -4,23 +4,25 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy estudiante apasionado por la programación y el desarrollo de software. He explorado tecnologías como **HTML, CSS, JavaScript**, y frameworks como **Bootstrap**. Actualmente participo en el desarrollo de una aplicación que busca ayudar a una tienda a gestionar sus operaciones internas de manera eficiente 💡.
+I'm a passionate student of programming and software development. I've explored technologies like HTML, CSS, and JavaScript, as well as frameworks like Bootstrap.
+I'm currently working on an app designed to help a local store manage its internal operations more efficiently 💡.
 
-🧠 Estoy aprendiendo sobre **desarrollo móvil**, y lo disfruto como un pasatiempo que me reta y motiva. Me gusta avanzar a mi ritmo y descubrir lo que la tecnología puede lograr.
+🧠 I'm learning about mobile development, and I enjoy it as a hobby that challenges and motivates me.
+I like to progress at my own pace and discover what technology is truly capable of.
 
-💻 Intereses técnicos
-- Desarrollo Web y Frontend
-- Backend con APIs y configuraciones
-- **Bases de datos**: diseño, consultas SQL y conexión con aplicaciones
-- Android Studio & programación móvil
+💻 Technical Interests
 
-  
-🎵 Más allá del código
-Además de programar:
-- Toco música con mi grupo 🎸
-- Me gusta andar en moto y explorar paisajes 🏍️🌄
-- Soy amante de los gatos 🐱
-- También disfruto hacer pasteles en mi negocio que tengo🍰🍞
+Web development and frontend design
+Backend using APIs and configuration
+Databases: design, SQL queries, and app integration
+Android Studio & mobile programming
+
+🎵 Beyond the code Aside from coding:
+
+I play music with my band 🎸
+I love riding my motorcycle and exploring nature 🏍️🌄
+I'm a cat lover 🐱
+I also enjoy baking for my own pastry business 🍰🍞
 
   <h2>Github stats:</h2> 
 
