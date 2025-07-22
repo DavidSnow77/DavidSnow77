@@ -4,25 +4,26 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a passionate student of programming and software development. I've explored technologies like HTML, CSS, and JavaScript, as well as frameworks like Bootstrap.
-I'm currently working on an app designed to help a local store manage its internal operations more efficiently 💡.
+I'm a passionate student of programming and software development.<br>
+I've explored technologies like **HTML, CSS, and JavaScript**, as well as frameworks like **Bootstrap**.<br>
+I'm currently working on an app designed to help a local store manage its internal operations more efficiently 💡.<br><br>
 
-🧠 I'm learning about mobile development, and I enjoy it as a hobby that challenges and motivates me.
-I like to progress at my own pace and discover what technology is truly capable of.
+🧠 I'm learning about **mobile development**, and I enjoy it as a hobby that challenges and motivates me.<br>
+I like to progress at my own pace and discover what technology is truly capable of.<br><br>
 
-💻 Technical Interests
+💻 **Technical Interests**<br>
+- Web development and frontend design<br>
+- Backend using APIs and configuration<br>
+- **Databases**: design, SQL queries, and app integration<br>
+- Android Studio & mobile programming<br><br>
 
-Web development and frontend design
-Backend using APIs and configuration
-Databases: design, SQL queries, and app integration
-Android Studio & mobile programming
+🎵 **Beyond the code**<br>
+Aside from coding:<br>
+- I play music with my band 🎸<br>
+- I love riding my motorcycle and exploring nature 🏍️🌄<br>
+- I'm a cat lover 🐱<br>
+- I also enjoy baking for my own pastry business 🍰🍞
 
-🎵 Beyond the code Aside from coding:
-
-I play music with my band 🎸
-I love riding my motorcycle and exploring nature 🏍️🌄
-I'm a cat lover 🐱
-I also enjoy baking for my own pastry business 🍰🍞
 
   <h2>Github stats:</h2> 
 
