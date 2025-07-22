@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm David Nieves Huerta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHR5ajU5dzAxeGhnb2Y5NnVzdzZwbHVpYjBtMXlveTE2ZGlhdWhkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JcJftkNKb7FtVrACIe/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRqbHNoczlkdGFtcGxzcDZ3cDlsZm8wZHVtb2x0OHVhMzlwYmFpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yX8X517TiuMwuO2tdQ/giphy.gif" />
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
